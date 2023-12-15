@@ -1,0 +1,10 @@
+{
+    "db":{
+        "database": "database.db",
+        "tables": {
+            "elderly": "idosos",
+            "remedy": "remedios",
+            "elderlyRemedy": "remedio_idoso"
+        }
+    }
+}
